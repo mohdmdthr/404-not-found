@@ -9,6 +9,10 @@
     <a href="https://404-not-found-mohdmdthr.netlify.app/">
       Demo
     </a>
+     <span> | </span>
+    <a href="https://devchallenges.io/solutions/OL1jwY8OH8qTedd4GzvH">
+      Solution
+    </a>
     <span> | </span>
     <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
       Challenge
